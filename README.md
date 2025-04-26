@@ -8,3 +8,15 @@ Progressively larger sorted arrays are merged together.
 
 
 ## Time Complexity
+### Best Case
+O(nlogn)  
+Ω(nlogn)  
+Θ(nlogn)  
+### Average Case
+O(nlogn)  
+Ω(nlogn)  
+Θ(nlogn)  
+### Worst Case
+O(nlogn)  
+Ω(nlogn)  
+Θ(nlogn)  
